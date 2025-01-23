@@ -1,0 +1,148 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: Roboto, sans-serif;
+    padding: 0;
+    margin: 0;
+
+ }
+ .menu {
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     padding: 14px;
+     padding-inline-start: 130px;
+     padding-inline-end: 130px;
+     margin-bottom: 0;
+     background-color: #1F2937;
+     
+ }
+ .logo {
+     font-size: 24px;
+     color: #F9FAF8;
+
+ }
+ .title {
+     background-color: #1F2937;
+     display: flex;
+     justify-content: space-between;
+     align-content: center;
+     height: 400px;
+ }
+ .mainboxleft {
+     width: 350px;
+     height: 300px;
+     align-content: center;
+     justify-content: center;
+     padding-left: 130px;
+ }
+ .maintext {
+     font-size: 48px;
+     font-weight: 900;
+     color: #F9FAF8;
+ }
+ .mainsub {
+     font-size: 18px;
+     color: #E7E5EB
+ }
+ .photo {
+     background-color: grey;
+     height: 200px;
+     width: 350px;
+     margin-right: 130px;
+     margin-top: 80px;
+     justify-content: center;
+     text-align: center;
+     align-content: center;
+ }
+ .button1 {
+    background-color: #3882F6;
+    align-content: center;
+    color: white;
+    width: 100px;
+    padding: 7px;
+    border-radius: 10px;
+    font-size: medium;
+ }
+ .info {
+    text-align: center;
+  
+ } 
+ .infotitle {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    margin: 80px;
+ }
+ .infocontainer {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+ }
+ .infophoto {
+    height: 160px;
+    width: 160px;
+    border: 4px solid #3882F6;
+    border-radius: 14px;
+    margin-bottom: 8px;
+ }
+ .infophotocont {
+    width: 160px;
+    margin-bottom: 100px;
+ }
+ .text {
+    text-align: justify;
+ }
+ .testimonial {
+    background-color: #E5E7EB;
+    text-align: center;
+ }
+ .quote {
+    font-size: 36px;
+    font-style:italic;
+    color: #1F2937;
+    padding: 300px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-weight: lighter;
+    text-align: justify;
+ }
+ .signup {
+    background-color: #3882F6;
+    color: white;
+    display:flex;
+    padding: 30px;
+    margin:100px;
+    margin-top: 70px;
+    margin-bottom: 60px;
+    justify-content: center;
+    border-radius: 15px;
+    gap: 150px;
+    height: 150px;
+ }
+ .button3 {
+    color: white;
+    background-color: #3882F6;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 20px;
+    width: 150px;
+    font-weight: 700;
+    align-self: center;
+    padding: 10px;
+    text-align: center;
+ }
+ footer {
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    padding:  40px;
+    font-size: 18px;
+ }
+ ui {
+     display: flex;
+     gap: 16px;
+ }
+ li {
+     list-style: none;
+ }
